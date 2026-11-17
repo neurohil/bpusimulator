@@ -1,6 +1,6 @@
 # BPU Simulator
 
-Official standalone desktop distribution of the Biological Processing Unit (BPU) Simulator.
+
 
 ---
 
@@ -57,10 +57,3 @@ You can also browse all assets and release metadata on the [Official Release Pag
    ```
 
 ---
-
-## 🔬 About BPU Simulator
-
-The Biological Processing Unit (BPU) Simulator integrates electrophysiological organoid modeling:
-- **Olfactory Organoids:** Dual receptor lineages (immature iOR and mature mOR) with dose-response biophysics.
-- **Thalamic & Cortical Organoids:** Thalamocortical relay circuitry, synaptic depression/facilitation, and burst dynamics.
-- **High-Density MEA:** 1,024-channel microelectrode array rasterization and Local Field Potential (LFP) computation.
